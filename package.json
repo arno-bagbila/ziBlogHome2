@@ -1,0 +1,19 @@
+{
+  "name": "zibloghome2",
+  "version": "1.0.0",
+  "description": "Building a blog app with react and webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arno-bagbila/ziBlogHome2.git"
+  },
+  "author": "Tiwoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arno-bagbila/ziBlogHome2/issues"
+  },
+  "homepage": "https://github.com/arno-bagbila/ziBlogHome2#readme"
+}
